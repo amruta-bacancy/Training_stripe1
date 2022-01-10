@@ -1,0 +1,13 @@
+current directory: /home/amruta/Desktop/photo-app/vendor/bundle/ruby/2.5.0/gems/json-2.6.1/ext/json
+/usr/share/rvm/rubies/ruby-2.5.1/bin/ruby -I /usr/share/rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20220110-74583-j8o8zq.rb extconf.rb
+creating Makefile
+
+current directory: /home/amruta/Desktop/photo-app/vendor/bundle/ruby/2.5.0/gems/json-2.6.1/ext/json
+make DESTDIR\= clean
+
+current directory: /home/amruta/Desktop/photo-app/vendor/bundle/ruby/2.5.0/gems/json-2.6.1/ext/json
+make DESTDIR\=
+make: Nothing to be done for 'all'.
+
+current directory: /home/amruta/Desktop/photo-app/vendor/bundle/ruby/2.5.0/gems/json-2.6.1/ext/json
+make DESTDIR\= install
